@@ -1,2 +1,2 @@
-## Ionic 5 Angular with Openweathermap API's
+## Ionic 5 + Angular with Openweathermap API's
 
